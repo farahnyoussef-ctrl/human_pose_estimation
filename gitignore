@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pt
+*.pth
+*.ckpt
+data/
+crop_pic/
+crop_label/
